@@ -1,11 +1,15 @@
 {
-  "version": "8.0.2",
+  "version": "8.1.0",
   "notes": "Yeni g\u00fcncelleme mevcut.",
-  "pub_date": "2026-07-07T07:31:28.548370+00:00",
+  "pub_date": "2026-07-07T08:10:49.573611+00:00",
   "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSN3hXU0lOSEtkRGYwTHcyVTJuTVZZcGVVeVc1cUJQSVF2MGRTTFU5Z0ZvVHZxbkI4RXpXVEkzRVZBNGNZaTlMQ2x3UEtOcTdBZ3M4YnBCQ0J4c1BCY044OWt2bTdnY2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDExNzE4CWZpbGU6S2xpbmlrIFlvbmV0aW0gU2lzdGVtaV84LjEuMF94NjQtc2V0dXAuZXhlCjhJQ1BWYisvSnlYR2hvZ3RzcFZRTUR0RGZXQm5rc1k1QmhSNU9xNnhMNHZlTy9iS0tUMThETmNlamV0NjRLZVRTd2FMZlFZejlCVHZ1MytEWFhJMUF3PT0K",
+      "url": "https://github.com/ilbeyklc/clinic-app-releases/releases/download/v8.1.0/Klinik.Yonetim.Sistemi_8.1.0_x64-setup.exe"
+    },
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSN3hXU0lOSEtkRGM5UDAzV2dLSkZtWDNNMjlKZ0t0Qm1iaHJsZkxIVW5jMjZuNmF4cFQzN2JCTEc4dlhURTU2WHlvKzN4LzB1SVJrVlhjU3ptS0E4SHNxUHNYUDJkbWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDA4Njc3CWZpbGU6S2xpbmlrIFlvbmV0aW0gU2lzdGVtaS5hcHAudGFyLmd6CmN5Q1R3cXhSYzJlYlk5OElWMGVZZy9CQ3NQZWd2Rmt1Ykk4R0VpenhBTFdndjloR2tNbW42UUhCelJRSU4xYlg5Mnd2amQyRkQ2QjM0Ump4V0N4R0JnPT0K",
-      "url": "https://github.com/ilbeyklc/clinic-app-releases/releases/download/v8.0.2/Klinik.Yonetim.Sistemi.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSN3hXU0lOSEtkRFUrZWQzZFZ1TzRFYlJ5N0pxN3RrRlFxVVdxY3VWTnc0eWFncUhCODNxRGF3dzN6ZHRVU0FMZjF5S1ZrcjZMTEhqZzdnNERLMjRpS0NwTTVtMEUyRVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDExMDY2CWZpbGU6S2xpbmlrIFlvbmV0aW0gU2lzdGVtaS5hcHAudGFyLmd6CkE2cmRMckZtUjhyeDNiZUlLUmtlbnc3Rjg2VzBNalUzY0ZRRk85WmU5eXZrTnQ0VmdFM3BOckdqTXI3YWdqWjNQL3ROc3lyenNNSnFJOGZaNHo1UUFnPT0K",
+      "url": "https://github.com/ilbeyklc/clinic-app-releases/releases/download/v8.1.0/Klinik.Yonetim.Sistemi.app.tar.gz"
     }
   }
 }
