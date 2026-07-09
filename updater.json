@@ -1,15 +1,15 @@
 {
-  "version": "8.3.1",
+  "version": "8.3.2",
   "notes": "Yeni g\u00fcncelleme mevcut.",
-  "pub_date": "2026-07-09T14:40:49.614898+00:00",
+  "pub_date": "2026-07-09T15:03:20.670437+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSN3hXU0lOSEtkRFc2WW9IQXdJeDhBQ3BzQm1hbzRnMW1ZNEZhb3JDRk8vWVBUUHVoeE1rNXhMSXhGdHVQWU9YcDVPUlN1dHE0M090UTd2MkNJTFhVeFNnL3A0RExsZVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjA3ODY3CWZpbGU6S2xpbmlrIFlvbmV0aW0gU2lzdGVtaV84LjMuMV94NjQtc2V0dXAuZXhlCjZlejBIWW11TVR5RzdwOFRsUE9jYjNVLzF1cTRXSjJCRGloNGhiM3ZSMW05TFlTSVBNOFlkS09mNUZaSFA2L0xKdlNERWRPbk5nNGJSNXJzZkVaaERnPT0K",
-      "url": "https://github.com/ilbeyklc/clinic-app-releases/releases/download/v8.3.1/Klinik.Yonetim.Sistemi_8.3.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSN3hXU0lOSEtkRGZtNjRDb1dJaUoxYzM0VEYycHR5VkJLNyt2aXoybFNLaFJNVkdtZGZoQTdXcnJoc0loTjhUL3lBZ29udjJwOGZvMlMwM25oTlZ5NEJtcGZBMjVVT2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjA5MjM0CWZpbGU6S2xpbmlrIFlvbmV0aW0gU2lzdGVtaV84LjMuMl94NjQtc2V0dXAuZXhlCmR4OHp3cEZ5SG9Gc1NqbWVPWVA3L3dNSTBrdk1QK1ZGNU1ibEhtSW54WDdJSEJTRGtzZUduNEVQdVZSdEV4Z1ZibmFUL2p0YjVOYUY5RlJraXhhV0FRPT0K",
+      "url": "https://github.com/ilbeyklc/clinic-app-releases/releases/download/v8.3.2/Klinik.Yonetim.Sistemi_8.3.2_x64-setup.exe"
     },
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSN3hXU0lOSEtkRFhiNXZNSkpERDRaSDQwRThMVmJLNjMyaXhHNDN3aHZqaDFmV3ptZnNCOXpVeXU1ZFU3SHI3Z0tjcW1xallXWit4R0FWOVM5YUt5RTRZN2R5TmdwR3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjA3NDA5CWZpbGU6S2xpbmlrIFlvbmV0aW0gU2lzdGVtaS5hcHAudGFyLmd6CmFoaTNUVDdzZnZ6QUZnODNrNnpYQWoxQUlrSDlHUmQ0UHh0KzI3WFpINitFd2FOU3dSYUpPeDc1SDIxLzdWa3FTeGhTdmdWaDhWRmhEOFlzdVMzdUNRPT0K",
-      "url": "https://github.com/ilbeyklc/clinic-app-releases/releases/download/v8.3.1/Klinik.Yonetim.Sistemi.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSN3hXU0lOSEtkRFg2MWtOenFqV1NjU2JNUVA2OU9tdUlMMVh5eTFER0J5Vk0waW5JdmNwV2YvS3QxUkdtejcweTNOcFRQaVg1ZHp3TTUzK2hLOC9DSHl0aCtZMFowMkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjA5MzAyCWZpbGU6S2xpbmlrIFlvbmV0aW0gU2lzdGVtaS5hcHAudGFyLmd6ClFiS1pkcG0xNUZEOWt3Z1gwNzUwTUM5RFg2ZExzeTFTL3JqVnlLcXJxQW5lMndFaXp4cFQrbWhvRDh6STlSODlJbkFuZVNHZGxCUjgxL2JHSHV5ekNBPT0K",
+      "url": "https://github.com/ilbeyklc/clinic-app-releases/releases/download/v8.3.2/Klinik.Yonetim.Sistemi.app.tar.gz"
     }
   }
 }
