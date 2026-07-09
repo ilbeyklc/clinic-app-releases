@@ -1,15 +1,11 @@
 {
-  "version": "8.2.0",
+  "version": "8.3.0",
   "notes": "Yeni g\u00fcncelleme mevcut.",
-  "pub_date": "2026-07-07T11:33:58.087692+00:00",
+  "pub_date": "2026-07-09T13:18:47.497398+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSN3hXU0lOSEtkRFVHUzNjMENRVjNOKzQraWg5OUhpRGc3aXhUYWZSTm5HazlmdzNNS1drSXAyU0NVNUNpb1NNYTVKemJDSmtMcm8ybmFpdVRKQTkwWE9mWEJ3Z0ZKTWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDIzODYxCWZpbGU6S2xpbmlrIFlvbmV0aW0gU2lzdGVtaV84LjIuMF94NjQtc2V0dXAuZXhlCmhseHdUelJKY1NNd1ZKSElKOFZjZmsvNFMvQXZUcWZFOTNDUkw5TTVCNzhzKytKbURtNjNTeVk0MzRYZmNhNytwN2ZGL1hybHVHbGlqMDJCNU1zWEJBPT0K",
-      "url": "https://github.com/ilbeyklc/clinic-app-releases/releases/download/v8.2.0/Klinik.Yonetim.Sistemi_8.2.0_x64-setup.exe"
-    },
-    "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSN3hXU0lOSEtkRGV3Nndzc1hJeXNiclVSU3lWWDhsd3BjWWlyOHRoT2VZZndHSzdLaG1JQi9na0ZEMmp4UGRNbjBlQ1VsVGY4dVYrbWdiRm42Z0ZyMXRQa1lDRVR1VkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDIzMTI0CWZpbGU6S2xpbmlrIFlvbmV0aW0gU2lzdGVtaS5hcHAudGFyLmd6CkdjU2dRL3BGcGRVdm9vL3BFdm9DVDVlZjF2YjBGazd0Q2MzRmkvdGxaMEhQWktqR2ZOTlBGaWNOTVdhd1FlQUVXUmVNVWRiV0txWkZnbGE5Q2pkQkNBPT0K",
-      "url": "https://github.com/ilbeyklc/clinic-app-releases/releases/download/v8.2.0/Klinik.Yonetim.Sistemi.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSN3hXU0lOSEtkRGJSU1c4dGlCZDlJY0R0MGtIdjRyVUdTLzEvRzg0aENqZlpiUGdEclVkYVpTcFZRNE9pRjRoc2p4M2c2MURvNlFaSDdzMDZ6T2IyMW51MU9QbkttU3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjAyODYyCWZpbGU6S2xpbmlrIFlvbmV0aW0gU2lzdGVtaV84LjMuMF94NjQtc2V0dXAuZXhlCk1WRGhXTml3WmNaWU0xQ2s5d3M4a0hxSTNwaWJ4L0FZd2tTREhpb0JRL203ZEkvWDhIRWJGenBJU25QankyY2lxdG1GK3lNMzBtbERlKzY4czhPZ0R3PT0K",
+      "url": "https://github.com/ilbeyklc/clinic-app-releases/releases/download/v8.3.0/Klinik.Yonetim.Sistemi_8.3.0_x64-setup.exe"
     }
   }
 }
